@@ -1,0 +1,1 @@
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Patrick Willian. O objetivo do projeto foi elencar 3 medidas de segurança em conjunto dos serviços da AWS, com a finalidade de realizar aumentar a segurança na empresa.
